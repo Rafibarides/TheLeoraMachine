@@ -1,0 +1,18 @@
+body {
+    background-color: #402BE8;
+    color: #37F7FF;
+}
+
+h1 {
+    color: #9230FF;
+}
+
+select {
+    background-color: #2B9EE8;
+    color: #37F7FF;
+}
+
+button {
+    background-color: #9230FF;
+    color: #37F7FF;
+}
